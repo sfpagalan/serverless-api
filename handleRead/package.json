@@ -1,0 +1,16 @@
+{
+    "name": "read-records-from-dynamodb",
+    "version": "1.0.0",
+    "description": "Lambda function for reading records from DynamoDB",
+    "main": "index.js",
+    "dependencies": {
+      "dynamoose": "^2.7.0"
+    },
+    "scripts": {
+      "test": "jest"
+    },
+    "devDependencies": {
+      "jest": "^27.0.6"
+    }
+}
+  
